@@ -1,4 +1,4 @@
-// comment here again
+// comment here again, 1
 module.exports = {
     seo: {
         "title": "FastStore",
